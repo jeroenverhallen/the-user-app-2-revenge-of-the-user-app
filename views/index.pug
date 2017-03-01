@@ -1,0 +1,10 @@
+html
+    head
+        title user information app
+        link( rel="stylesheet", href="static/style.css" )
+    body
+        h1 User Information app
+        p1 Here is a list of users
+        ul
+            each user in users
+                li #{ user.firstname }#{ user.lastname }#{ user.email }

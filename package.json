@@ -1,0 +1,24 @@
+{
+  "name": "the-user-app-2-revenge-of-the-user-app",
+  "version": "1.0.0",
+  "description": "a self made user app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeroenverhallen/the-user-app-2-revenge-of-the-user-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeroenverhallen/the-user-app-2-revenge-of-the-user-app/issues"
+  },
+  "homepage": "https://github.com/jeroenverhallen/the-user-app-2-revenge-of-the-user-app#readme",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "pug": "^2.0.0-beta11"
+  }
+}
